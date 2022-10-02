@@ -8,6 +8,7 @@
 const developer = {
   name: 'Lucio',
   stack: 'Front End Developer',
+  career: 'Full Stack Developer (in process)',
   contry: 'Argentina',
   languages: {
     español: 'Nativo',
@@ -38,3 +39,7 @@ const developer = {
 <a href="mailto:lugastellu19@gmail.com">
   <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
+
+<h2 align="center">Gracias por tu visita! </h2>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{lucio1907}/count.svg" alt="luciogastellu :: Visitor's Count" /></p>
