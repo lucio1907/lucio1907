@@ -1,6 +1,6 @@
 
 
-<h1 align='center'>Hola!👋 Soy Lucio Gastellu Arrieta</h1>
+<h1 align='center'>Hola! Soy Lucio Gastellu Arrieta</h1>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
