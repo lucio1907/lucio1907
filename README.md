@@ -12,7 +12,7 @@ const developer = {
   contry: 'Argentina',
   languages: {
     español: 'Nativo',
-    english: 'B1 upper intermediate'
+    english: 'B2'
   }
 };
 ```
