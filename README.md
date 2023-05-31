@@ -7,11 +7,9 @@
 ```javascript
 const developer = {
   name: 'Lucio',
-  stack: 'Front End Developer',
-  career: 'Full Stack Developer (in process)',
+  stack: 'Full Stack Developer',
   contry: 'Argentina',
   languages: {
-    español: 'Nativo',
     english: 'B2'
   }
 };
