@@ -34,7 +34,7 @@ const developer = {
 <a href="https://www.instagram.com/luciogastellu/" target:'_blank'>
   <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:lugastellu19@gmail.com">
+<a href="mailto:luciogastellu.dev@gmail.com">
   <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
