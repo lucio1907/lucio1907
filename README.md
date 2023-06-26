@@ -8,12 +8,12 @@
 const developer = {
   name: 'Lucio',
   stack: 'Full Stack Developer',
-  frontendTechnologies: ['HTML', 'CSS', 'JS', 'React JS', 'Tailwind CSS'],
-  backendTechnologies: ['Express JS', 'Postgresql', 'MongoDB', 'Mongoose', 'Python'],
-  contry: 'Argentina',
+  country: 'Argentina',
   languages: {
     english: 'B2'
-  }
+  },
+  frontendTechnologies: ['HTML', 'CSS', 'JS', 'React JS', 'Tailwind CSS'],
+  backendTechnologies: ['Express JS', 'Postgresql', 'MongoDB', 'Mongoose', 'Python']
 };
 ```
 
