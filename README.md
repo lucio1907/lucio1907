@@ -12,8 +12,8 @@ const developer = {
   languages: {
     english: 'B2'
   },
-  frontendTechnologies: ['HTML', 'CSS', 'JS', 'React JS', 'Tailwind CSS'],
-  backendTechnologies: ['Express JS', 'Typescript', 'Postgresql', 'MongoDB', 'Mongoose', 'Python']
+  frontendTech: ['HTML', 'CSS', 'JS', 'React JS', 'Tailwind CSS'],
+  backendTech: ['Express JS', 'Typescript', 'Postgresql', 'MongoDB', 'Mongoose', 'Python']
 };
 ```
 
