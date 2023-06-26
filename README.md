@@ -13,7 +13,7 @@ const developer = {
     english: 'B2'
   },
   frontendTechnologies: ['HTML', 'CSS', 'JS', 'React JS', 'Tailwind CSS'],
-  backendTechnologies: ['Express JS', 'Postgresql', 'MongoDB', 'Mongoose', 'Python']
+  backendTechnologies: ['Express JS', 'Typescript', 'Postgresql', 'MongoDB', 'Mongoose', 'Python']
 };
 ```
 
