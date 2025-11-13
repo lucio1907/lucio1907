@@ -28,7 +28,6 @@ const developer = {
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express_JS-333333?logo=Express)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
