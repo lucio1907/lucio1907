@@ -24,10 +24,11 @@ const developer = {
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/Typescript-333333?logo=typescript)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-333333?logo=tailwindcss)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express_JS-333333?logo=Express)
+  ![Java Oficial](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -57,7 +58,3 @@ const developer = {
 <a href="mailto:luciogastellu.dev@gmail.com">
   <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
-
-<h2 align="center">Gracias por tu visita! </h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{lucio1907}/count.svg" alt="luciogastellu :: Visitor's Count" /></p>
